@@ -13,6 +13,7 @@
 		F45EE5C92543C3E7000D1A5C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F45EE5C82543C3E7000D1A5C /* Preview Assets.xcassets */; };
 		F45EE5D42543C3E8000D1A5C /* Apple_Tutorial_Project_SwiftUI_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45EE5D32543C3E8000D1A5C /* Apple_Tutorial_Project_SwiftUI_1Tests.swift */; };
 		F45EE5DF2543C3E8000D1A5C /* Apple_Tutorial_Project_SwiftUI_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45EE5DE2543C3E8000D1A5C /* Apple_Tutorial_Project_SwiftUI_1UITests.swift */; };
+		F484F5F02544928E0009AD3B /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F484F5EF2544928E0009AD3B /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		F45EE5DA2543C3E8000D1A5C /* Apple_Tutorial_Project_SwiftUI_1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Apple_Tutorial_Project_SwiftUI_1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F45EE5DE2543C3E8000D1A5C /* Apple_Tutorial_Project_SwiftUI_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apple_Tutorial_Project_SwiftUI_1UITests.swift; sourceTree = "<group>"; };
 		F45EE5E02543C3E8000D1A5C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F484F5EF2544928E0009AD3B /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				F45EE5C12543C3E5000D1A5C /* Apple_Tutorial_Project_SwiftUI_1App.swift */,
 				F45EE5C32543C3E5000D1A5C /* ContentView.swift */,
 				F45EE5C52543C3E7000D1A5C /* Assets.xcassets */,
+				F484F5EF2544928E0009AD3B /* CircleImage.swift */,
 				F45EE5CA2543C3E7000D1A5C /* Info.plist */,
 				F45EE5C72543C3E7000D1A5C /* Preview Content */,
 			);
@@ -261,6 +264,7 @@
 			files = (
 				F45EE5C42543C3E5000D1A5C /* ContentView.swift in Sources */,
 				F45EE5C22543C3E5000D1A5C /* Apple_Tutorial_Project_SwiftUI_1App.swift in Sources */,
+				F484F5F02544928E0009AD3B /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
